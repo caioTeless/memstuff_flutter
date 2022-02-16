@@ -1,16 +1,9 @@
 # memstuff
 
-A new Flutter project.
+Projeto desenvolvido durante as aulas de programação mobile na faculdade.
 
-## Getting Started
+## Print ##
 
-This project is a starting point for a Flutter application.
+![MemStuff1](https://user-images.githubusercontent.com/61428146/154276711-86a74520-146b-4d14-a918-7d8107670dab.png) ![MemStuff2](https://user-images.githubusercontent.com/61428146/154276723-b8f49269-4f44-42cd-9e6f-06783525d90a.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![MemStuff3](https://user-images.githubusercontent.com/61428146/154276738-89336089-9391-4311-9991-3a345295bb4b.png)
